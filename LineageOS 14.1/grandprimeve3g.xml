@@ -1,0 +1,18 @@
+	  <!-- LineageOS specific apps -->
+	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="cm-14.1"/>
+	<project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="cm-14.1"/>
+	
+	  <!-- Samsung vendor hardware code -->
+	<project path="vendor/samsung" name="Ryzen5-3600/proprietary_vendor_samsung" remote="github" revision="cm-14.1"/>
+  <project path="vendor/samsung/grandprimeve3g" name="Ryzen5-3600/android_vendor_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="vendor/samsung/scx30g2-common" name="Ryzen5-3600/android_vendor_samsung_scx30g2-common" remote="github" revision="cm-14.1"/>
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="cm-14.1"/>
+  <project path="hardware/sprd" name="Ryzen5-3600/android_hardware_sprd" remote="github" revision="cm-14.1"/>
+  
+  	  <!-- grandprimeve3g -->
+	<project path="device/samsung/sprd-common" name="Ryzen5-3600/android_device_samsung_sprd-common" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/grandprimeve3g" name="Ryzen5-3600/android_device_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/scx30g2-common" name="Ryzen5-3600/android_device_samsung_scx30g2-common" remote="github" revision="cm-14.1"/>
+	<project path="device/samsung/scx35-common" name="Ryzen5-3600/android_device_samsung_scx35-common" remote="github" revision="cm-14.1"/>
+	<project path="kernel/samsung/sprd" name="Ryzen5-3600/android_kernel_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
+	<project path="kernel/samsung/grandprimeve3g" name="Ryzen5-3600/android_kernel_samsung_grandprimeve3g" remote="github" revision="cm-14.1"/>
