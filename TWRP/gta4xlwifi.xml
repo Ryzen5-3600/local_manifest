@@ -1,0 +1,5 @@
+<manifest>
+	  <!-- gta4xlwifi -->
+	<project path="device/samsung/gta4xlwifi" name="gta4xl/twrp_device_samsung_gta4xlwifi" remote="github" revision="android-10.0"/>
+	<project path="kernel/samsung/gta4xl" name="gta4xl/android_kernel_samsung_gta4xl" remote="github" revision="android-10.0"/>
+</manifest>
